@@ -62,7 +62,7 @@ The current iteration of the list, such as you see it today, was launched with t
   - [SDLC](#sdlc)
 - [Skills](#skills)
 - [Memory & Context Persistence](#memory--context-persistence)
-- [MemTether](https://github.com/MemTether/MemTether) - Cross-client AI memory hub with bi-temporal governance, supersession chains, hash-chain audit, and 9 MCP tools including `correct_memory`, `as_of_query`, and `timeline`. One SQLite shared by all agents via file-level pointers.
+- [MemTether](https://github.com/MemTether/MemTether) - Cross-client AI memory hub for AI agents. Local-first, SQLite-backed, MCP server included. Apache-2.0.
 - [Observability & Monitoring](#observability--monitoring)
   - [Session Monitors](#session-monitors)
   - [Usage & Cost](#usage--cost)
